@@ -1,11 +1,10 @@
-// Imports
-const router = require("express").Router();
-const apiRoutes = require("./api");
-const homeRoutes = require("./homeRoutes");
+const router = require('express').Router();
+const commentsRoutes = require('./commentsRoutes');
+const userRoutes = require('./userRoutes');
+const postRoutes = require('./postRoutes');
 
-// Middleware
-router.use("/", homeRoutes);
-router.use("/api", apiRoutes);
+router.use('/comment', commentsRoutes);
+router.use('/users', userRoutes);
+router.use('/blogPost', postRoutes);
 
-// Exports
 module.exports = router;

@@ -5,13 +5,13 @@ header {
   }
   
   body {
-    background-color: #a28089;
+    background-color: lightblue;
   }
   
   h1 {
     font-family: "Jomolhari", serif;
-    background-color: teal;
-    color: #ffb3c6;
+    background-color: lightskyblue;
+    color: #f7f7f7;
     padding: 16px;
     margin-bottom: 5px;
   }
@@ -23,7 +23,7 @@ header {
   main {
     font-family: "Jomolhari", serif;
     margin-top: -5px;
-    background-color: #a28089;
+    background-color: lightblue;
   }
   
   .homepage-main {
@@ -31,7 +31,7 @@ header {
   }
   
   .user-name {
-    background-color: #84a59d;
+    background-color: #ffffff;
   }
   
   .blogPost-main {
@@ -41,11 +41,11 @@ header {
   /* Nav styles */
   
   .navBar {
-    background-color: #00a0a0;
+    background-color: lightsteelblue;
   }
   
   #logout {
-    background-color: #84a59d;
+    background-color: #fcfcfc;
   }
   
   /* Input/textarea styles */
@@ -58,27 +58,27 @@ header {
   #name-signup,
   #email-signup,
   #password-signup {
-    background-color: #e5eaf5;
+    background-color: #0150fc;
   }
   
   /* Button styles */
   
   .btn {
-    background-color: #ffb3c6;
+    background-color: #f6f3f4;
   }
   
   /* Card styles */
   
   .card-header {
-    background-color: #e5eaf5;
+    background-color: #8faef0;
   }
   
   .card-body {
-    background-color: #ffe5ec;
+    background-color: #fafafa;
   }
   
   .card {
-    background-color: #ffe5ec;
+    background-color: #857dd6;
   }
   
   .card:hover {
