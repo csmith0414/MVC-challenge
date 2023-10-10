@@ -38,7 +38,9 @@ THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 
+![Tech Blog](./images/screengrab.png)
 
+- Link to Tech Blog: [Tech Blog](https://shrouded-fortress-32642-d5460ae675f9.herokuapp.com/)
 
 
 ## Usage
