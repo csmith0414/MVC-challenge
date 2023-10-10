@@ -1,38 +1,38 @@
 [
-    {
-      "comment_body": "",
-      "date_created": "",
-      "user_id": 2,
-      "blogPost_id": 1
-    },
-    {
-      "comment_body": "",
-      "date_created": "",
-      "user_id": 3,
-      "blogPost_id": 1
-    },
-    {
-      "comment_body": "",
-      "date_created": "",
-      "user_id": 3,
-      "blogPost_id": 2
-    },
-    {
-      "comment_body": "",
-      "date_created": "",
-      "user_id": 1,
-      "blogPost_id": 2
-    },
-    {
-      "comment_body": "",
-      "date_created": "",
-      "user_id": 2,
-      "blogPost_id": 3
-    },
-    {
-      "comment_body": "",
-      "date_created": "",
-      "user_id": 1,
-      "blogPost_id": 3
-    }
+  {
+    "comment_body": "What is this guy talking about!",
+    "date_created": "June 15, 2023",
+    "user_id": 2,
+    "blogPost_id": 1
+  },
+  {
+    "comment_body": "I can see what he meant",
+    "date_created": "June 10, 2023",
+    "user_id": 3,
+    "blogPost_id": 1
+  },
+  {
+    "comment_body": "Finally an intelligent person!",
+    "date_created": "January 8, 2023",
+    "user_id": 3,
+    "blogPost_id": 2
+  },
+  {
+    "comment_body": "No way man. You are wrong!",
+    "date_created": "February 1, 2023",
+    "user_id": 1,
+    "blogPost_id": 2
+  },
+  {
+    "comment_body": "lol",
+    "date_created": "December 5, 2022",
+    "user_id": 2,
+    "blogPost_id": 3
+  },
+  {
+    "comment_body": "Why even post that here?",
+    "date_created": "December 30, 2022",
+    "user_id": 1,
+    "blogPost_id": 3
+  }
 ]

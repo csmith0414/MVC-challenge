@@ -1,0 +1,20 @@
+[
+    {
+      "title": "Will AI take over?",
+      "description": "AI is on course to make a major impact within every day society and should have people afraid of an AI take over one day.",
+      "date_created": "June 9, 2023",
+      "user_id": 1
+    },
+    {
+      "title": "PB&J sandwiches are the best sandwiches",
+      "description": "PB&J cannot be beat. It is so simple and the all around best sandwich anyone could ever make.",
+      "date_created": "January 2, 2023",
+      "user_id": 2
+    },
+    {
+      "title": "Is this thing on?",
+      "description": "Why is no one listening to me?",
+      "date_created": "December 1, 2022",
+      "user_id": 3
+    }
+  ]
